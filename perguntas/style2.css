@@ -1,0 +1,119 @@
+*{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.bola{
+    border-radius: 2em;
+    width: 65px;
+    height: 65px;
+    background-color: rgb(191, 39, 196);
+    border: 4px solid brown;
+    margin-left: 80px;
+    position: relative;
+    top: 60px;
+     
+}
+
+.numero{
+    font-size: 30px;
+    margin-left: 12px;
+    position: relative;
+    left: 7px;
+    top: 2px;
+}
+.texto{
+    margin-left: 160px;
+    font-size: 40px;
+    text-align: center;
+    display: block;
+    width: 1000px;
+    height: 100px;
+}
+
+
+.botao1{
+    border: 6px solid rgb(114, 33, 33);
+    background-color: rgb(193, 51, 51);
+    height: 80px;
+    width: 200px;
+    margin-left: 200px;
+}
+
+.botao2{
+    border: 6px solid rgb(114, 33, 33);
+    background-color: rgb(193, 51, 51);
+    height: 80px;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.botao3{
+    border: 6px solid rgb(114, 33, 33);
+    background-color: rgb(193, 51, 51);
+    height: 80px;
+    width: 200px;
+    margin-right: 250px;
+    position: relative;
+    top: 130px;
+    right: 205px;
+    
+    
+}
+
+.botao4{
+    border: 6px solid rgb(114, 33, 33);
+    background-color: rgb(193, 51, 51);
+    height: 80px;
+    width: 200px;
+    margin-left: 200px;
+    position: relative;
+    top: 50px;
+}
+
+button a{
+    color: black;
+    font-size: 20px;
+}
+
+main p{
+    font-size: 18px;
+    margin-top: 180px;
+    margin-left: 830px;
+}
+
+.botoes{
+    height: 220px;
+    margin-left: 100px;
+    position: relative;
+    top: 80px;
+    left: 100px;
+}
+
+.fotoquestao6{
+    width: 250px;
+    height: 170px;
+    position: relative;
+    position: absolute;
+    left: 970px;
+    bottom: 400px;
+    
+}
+
+#dez{
+    position: relative;
+    font-size: 25px;
+    top: 7px;
+    right: 10px;
+}
+
+#texto6{
+    width: 600px;
+    position: relative;
+    left: 200px;
+}
+
+#numero5{
+    text-decoration: none;
+    color: black;
+}
