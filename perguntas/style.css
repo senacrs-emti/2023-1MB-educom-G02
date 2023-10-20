@@ -50,3 +50,14 @@ right: 345px;
 
 }
 
+.tituloprincipal{
+    font-size: 50px;
+    width: 800px;
+    text-align: center;
+    position: relative;
+    right: 40px;
+    top: 10px;
+    -webkit-text-stroke: 1px #000;
+    text-stroke: 1px #000;
+}
+
