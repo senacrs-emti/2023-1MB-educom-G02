@@ -1,9 +1,11 @@
+
+
 header {
     height: 200px;
     width: 100%;    
     display: block;
     float: left;
-    background-color: #e80c7c;
+    background-color: #d40a72;
     border-bottom: 3px solid black;
     
 }
@@ -11,18 +13,18 @@ header {
 header img {
     width: 200px;
     height: 200px;
-    display: block;
     float: left;
-    margin-left: 3%;
-    
 }
 
 header h1 {
-    color: white    ;
-    display: block;
+    font-size: 80px;
+    color: white;
     float: left;
-    margin-top: 5%;
-    margin-left: 3%;
+    text-align: center;
+    margin-top: 4%;
+    margin-left: 9%;
+    -webkit-text-stroke: 1px #000;
+    text-stroke: 1px #000;
 }
 
 
@@ -50,14 +52,5 @@ right: 345px;
 
 }
 
-.tituloprincipal{
-    font-size: 50px;
-    width: 800px;
-    text-align: center;
-    position: relative;
-    right: 00px;
-    top: 10px;
-    -webkit-text-stroke: 1px #000;
-    text-stroke: 1px #000;
-}
+
 
