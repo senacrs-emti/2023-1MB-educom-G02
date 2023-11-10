@@ -35,40 +35,31 @@
 .botao1{
     border: 6px solid rgb(114, 33, 33);
     background-color: rgb(193, 51, 51);
-    height: 80px;
-    width: 200px;
-    margin-left: 200px;
+    position: relative;
+    left: 100px;
 }
 
 .botao2{
     border: 6px solid rgb(114, 33, 33);
     background-color: rgb(193, 51, 51);
-    height: 80px;
-    width: 200px;
-    margin-left: 100px;
+    position: relative;
+    left: 600px;
+    bottom: 70px;
 }
 
 .botao3{
     border: 6px solid rgb(114, 33, 33);
     background-color: rgb(193, 51, 51);
-    height: 80px;
-    width: 200px;
-    margin-right: 250px;
     position: relative;
-    top: 130px;
-    right: 205px;
-    
-    
+    left: 100px;
 }
 
 .botao4{
     border: 6px solid rgb(114, 33, 33);
     background-color: rgb(193, 51, 51);
-    height: 80px;
-    width: 200px;
-    margin-left: 200px;
     position: relative;
-    top: 50px;
+    left: 600px;
+    bottom: 70px;
 }
 
 button a{
@@ -83,7 +74,7 @@ main p{
 }
 
 .botoes{
-    height: 220px;
+    height: 230px;
     margin-left: 100px;
     position: relative;
     top: 80px;
